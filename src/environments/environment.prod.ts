@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  baseUrl : 'https://spngpostgre.herokuapp.com/api'
+  baseUrl:'https://bloging5.herokuapp.com/api'
 };
