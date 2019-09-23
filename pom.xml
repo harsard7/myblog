@@ -6,7 +6,7 @@
 	<groupId>com.javasampleapproach</groupId>
 	<artifactId>spring-boot-rest-postgresql</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>SpringRESTPostgreSQL</name>
 	<description>Demo project for Spring Boot - REST - PostgreSQL</description>
